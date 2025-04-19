@@ -28,4 +28,32 @@ The system includes vehicle inventory management, customer registration, booking
 
 ---
 
+## Setup Instructions
+
+1. Clone the repo
+2. Import project into IntelliJ or Eclipse
+3. Ensure MySQL is running
+4. Import the provided SQL schema
+5. Update DB credentials in `DBConnection.java`
+6. Run `CarRentalSystem.java`
+
+---
+
+## Future Enhancements
+
+- Role-based multi-user login
+- Export reports as PDF/CSV
+- Dark mode toggle
+- REST API backend for web integration
+- Vehicle image upload
+
+---
+
+## Developed By
+
+**Abhijit Raut**  
+*Java Developer*  
+GitHub: https://github.com/rauavi  
+LinkedIn: https://www.linkedin.com/in/abhijit-raut-8ba890263/
+
 
